@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ben Salès AKPATCHEMEY</h1>
-<h3 align="center">A passionate software engineer from Bénin</h3>
+<h3 align="center">A passionate software engineer from Benin</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adebsa2401&label=Profile%20views&color=0e75b6&style=flat" alt="adebsa2401" /> </p>
 
