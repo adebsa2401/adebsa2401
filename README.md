@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Ruby, Ruby on Rails, React.JS, React Native**
 
-- 👯 I’m looking to collaborate on **JS, Python, Rails projects**
+- 👯 I’m looking to collaborate on **JS, Python, PHP, Rails projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/adebsa2401?tab=repositories](https://github.com/adebsa2401?tab=repositories)
 
