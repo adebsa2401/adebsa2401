@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adebsa2401" alt="adebsa2401" /></a> </p>
 
-- 👯 I want to collaborate on **JS, NextJS, and Express.js projects**
+- 👯 I want to collaborate on **NextJS, and React Native (Expo) projects**
 
 - 👨‍💻 All of my public projects are available at [https://github.com/adebsa2401?tab=repositories](https://github.com/adebsa2401?tab=repositories)
 
-- 💬 Ask me about **React.JS, NextJS**
+- 💬 Ask me about **React.JS, NextJS, React Native, Expo**
 
 - 📫 How to reach me **adebsa2401@gmail.com**
 
